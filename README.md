@@ -229,6 +229,10 @@ A detailed explanation of every signal shown in the waveforms is available in:
 waveforms/Waveform_Explanation.md
 ```
 
+```
+https://github.com/GaurishJuneja/Pipelined-Mips32-Processor/tree/main/Waveforms
+```
+
 ---
 
 # Verification
